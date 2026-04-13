@@ -14,7 +14,7 @@ Complete the upload flow so that a user can:
 
 ## Requirements
 
-- Create and work from your own branch before making changes.
+- Fork this repository into your own public repository before making changes.
 - Use the OpenAI API key provided to you separately offline.
 - Use the files in `/testDocs` to test your implementation.
 - Keep the existing project structure with sibling `api` and `frontend` folders.
@@ -38,6 +38,6 @@ When the app is running, a reviewer should be able to:
 
 ## What to submit
 
-- Your completed code on your branch
+- A link to your completed public repository
 - Brief setup and run instructions
 - A short note describing your OCR approach, OpenAI integration, and any tradeoffs
